@@ -5,7 +5,7 @@
 
 
  # 💫 About Me:
-HEYYY,  I'M OLIVIA, <img src="https://user-images.githubusercontent.com/96692884/179118289-8a32898b-216b-4394-9fb0-61ddc8181d70.gif" width="40" height="48"/>  <br> - I am currently working on a passion project that helps to solve some common problems when choosing a stylist and or makeup artist, from IG. The project is called "Beauty Review" (check out the repo for more information)<br> - I am looking to collaborate on at least 1 open source project this year,<br> - I also would like to connect with more devs,<br> - fun fact about me: I am single handily keeping my local Moge tea afloat with my daily purchase of a cup of Mango slush boba tea<br> <br><br>
+HEYYY,  I'M LIV, <img src="https://user-images.githubusercontent.com/96692884/179118289-8a32898b-216b-4394-9fb0-61ddc8181d70.gif" width="40" height="48"/>  <br> - I am currently working on a passion project that helps to solve some common problems when choosing a stylist and or makeup artist, from IG. The project is called "Beauty Review" (check out the repo for more information)<br> - I am looking to collaborate on at least 1 open source project this year,<br> - I also would like to connect with more devs,<br> - fun fact about me: I am single handily keeping my local Moge tea afloat with my daily purchase of a cup of Mango slush boba tea<br> <br><br>
 
 
 ## 🌐 Socials:
